@@ -29,6 +29,7 @@
 <p><a href="https://www.buymeacoffee.com/juant72T"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="juant72T" /></a></p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juant72&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="juant72" /></p>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juant72&show_icons=true&locale=en&theme=tokyonight" alt="juant72" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juant72&theme=tokyonight" alt="juant72" /></p>
