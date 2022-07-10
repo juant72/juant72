@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Tapia</h1>
-<h3 align="center">I'm a experienced software professional with many years of verifiable success leading teams in delivering appropriate technology solutions for web, mobile products, and enterprise software solutions. Experience in Developing Decentralized Blockchain applications using Ethereum and Solidity. Comprehensive knowledge of platform development, enterprise architecture, agile methodologies, and cloud services.</h3>
+<h3 align="center">I'm a experienced software professional with many years of verifiable success leading teams in delivering appropriate technology solutions for web, mobile products, and enterprise software solutions. Experience in Developing Decentralized Blockchain applications using Solidity on Ethereum, and Rust on Solana. Comprehensive knowledge of platform development, enterprise architecture, agile methodologies, and cloud services.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juant72&label=Profile%20views&color=0e75b6&style=flat" alt="juant72" /> </p>
 
