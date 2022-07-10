@@ -1,4 +1,5 @@
-### Hi there 👋
+### Blockchain Developer, Software Solutions Architect, Advisor , Crypto Advocate
+### Experienced software professional with decades of verifiable success leading teams in delivering appropriate technology solutions for web, mobile products, and enterprise software solutions. Experience in Developing Decentralized Blockchain applications using Ethereum and Solidity. Comprehensive knowledge of platform development, enterprise architecture, agile methodologies, and cloud services.
 
 <!--
 **juant72/juant72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
