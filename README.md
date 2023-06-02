@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/juant72" target="blank"><img src="https://img.shields.io/twitter/follow/juant72?logo=twitter&style=for-the-badge" alt="juant72" /></a> </p>
 
-- 🌱 I’m currently learning **POLKADOT and NEAR Protocol**
+- 🌱 I’m currently learning **COSMOS Interchain**
 
 - 👨‍💻 All of my projects are available at [http://github.com/juant72](http://github.com/juant72)
 
