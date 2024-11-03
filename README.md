@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Tapia</h1>
-<h3 align="center">I'm a experienced software professional with many years of verifiable success leading teams in delivering appropriate technology solutions for web, mobile products, and enterprise software solutions. Experience in Developing Decentralized Blockchain applications using Solidity on Ethereum, and Rust on Solana. Comprehensive knowledge of platform development, enterprise architecture, agile methodologies, and cloud services.</h3>
+<h3 align="center">With over a decade of experience, my journey has led me to Encrypia, where I spearhead the development of cutting-edge blockchain protocols and decentralized applications. My mission is to harness the transformative power of blockchain to revolutionize how digital services are delivered, ensuring scalability and efficiency for our clients. 
+
+My expertise in blockchain architecture, coupled with a strong command over Web3, empowers me to contribute to the creation of bespoke Wweb3 solutions. At Encrypia, our team's commitment to innovation has enabled us to offer unparalleled services in the blockchain domain, solidifying our standing as industry pioneers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juant72&label=Profile%20views&color=0e75b6&style=flat" alt="juant72" /> </p>
 
